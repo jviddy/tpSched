@@ -13,7 +13,8 @@
     "mlly": "^1.7.1",
     "nuxt": "^3.13.0",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.12.1"
